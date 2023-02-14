@@ -1,7 +1,6 @@
 {
-  "name": "storybook-mui-example",
-  "version": "0.1.0",
-  "private": true,
+  "name": "storybook-mui-cola639",
+  "version": "0.0.1",
   "main": "dist/index.esm.js",
   "module": "dist/index.umd.js",
   "peerDependencies": {
